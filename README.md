@@ -26,7 +26,8 @@
 
 # Documentation
 
-# Contact 
+# Contact  Details 
+###  Connect with us 
 
 - email id - hardiksharma9166gmail.com
 - discord id - Haardik#5890
