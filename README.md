@@ -29,4 +29,4 @@
 # Contact 
 
 - email id - hardiksharma9166gmail.com
-- discord Id - Haardik#5890
+- discord id - Haardik#5890
