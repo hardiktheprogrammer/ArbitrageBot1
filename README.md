@@ -19,6 +19,7 @@
 
 # Pricing 
 
+Link 
 
 
 # Bot Download and  Installation Setup Instruction 
@@ -33,3 +34,4 @@
 
 - email id - hardiksharma9166gmail.com
 - discord id - Haardik#5890
+![https://t.me/Hardikthecoder]  
