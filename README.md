@@ -35,4 +35,4 @@ Link
 - email id - hardiksharma9166gmail.com
 - discord id - Haardik#5890
 
-![Telegram Id ](https://t.me/Hardikthecoder)
+- ![Telegram Id ](https://t.me/Hardikthecoder)
